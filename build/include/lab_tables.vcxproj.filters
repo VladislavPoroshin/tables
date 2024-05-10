@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\PC\source\repos\tables\include\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\PC\source\repos\tables\include\Postfix.h">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\Users\PC\source\repos\tables\include\Stack.h">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\Users\PC\source\repos\tables\include\polynom.h">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\Users\PC\source\repos\tables\include\tables.h">
+      <Filter>Header Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{F2BCBA16-8747-300C-B672-252ED1D27ACE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
