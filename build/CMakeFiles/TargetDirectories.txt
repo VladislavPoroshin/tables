@@ -1,4 +1,0 @@
-C:/Users/PC/source/repos/tables/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/PC/source/repos/tables/build/CMakeFiles/ZERO_CHECK.dir
-C:/Users/PC/source/repos/tables/build/include/CMakeFiles/lab_tables.dir
-C:/Users/PC/source/repos/tables/build/samples/CMakeFiles/tables.dir
